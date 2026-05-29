@@ -18,10 +18,10 @@ class GunaR:
     role = "Backend Engineer in Progress"
 
     current_focus = [
+        "Backend Development",
         "FastAPI",
         "Cloud & DevOps",
-        "Distributed Systems",
-        "System Design"
+        "Distributed Systems"
     ]
 
     currently_learning = [
@@ -34,14 +34,14 @@ class GunaR:
     mindset = "Observe → Investigate → Confirm → Fix → Automate"
 ```
 
-I enjoy building backend systems, automating workflows, and understanding how real production infrastructure behaves under scale, failure, and load.
+I enjoy building scalable backend systems, automating workflows, and learning how production infrastructure behaves under real-world load and failures.
 
-Currently interested in:
+Currently exploring:
 
 * ⚡ High-performance APIs
 * 🐳 Containerized applications
-* ☁️ Cloud-native backend architecture
-* 📊 Monitoring & logging systems
+* ☁️ Cloud-native systems
+* 📊 Monitoring & logging
 * 🔐 Authentication & backend security
 * 🚀 Deployment automation
 
@@ -87,7 +87,13 @@ Currently interested in:
 
 ---
 
-## 🌐 Connect
+## 📊 Contribution Graph
+
+[![Guna's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GunaAsher\&theme=tokyo-night\&hide_border=true)](https://github.com/GunaAsher)
+
+---
+
+## 🌐 Connect With Me
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square\&logo=instagram\&logoColor=white)](https://instagram.com/ash_walker10)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square\&logo=discord\&logoColor=white)](https://discord.gg/yK4Exj9A)
