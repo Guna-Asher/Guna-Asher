@@ -13,7 +13,7 @@
 ## 🚀 About Me
 
 ```python
-class GunaR:
+class Guna R:
 
     role = "Backend Engineer in Progress"
 
@@ -81,7 +81,7 @@ Currently exploring:
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=GunaAsher&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Guna-Asher&theme=tokyonight&hide_border=true"/>
 
 </div>
 
