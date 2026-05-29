@@ -73,9 +73,9 @@ Currently exploring:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=GunaAsher&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Guna-Asher&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GunaAsher&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guna-Asher&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -89,7 +89,7 @@ Currently exploring:
 
 ## 📊 Contribution Graph
 
-[![Guna's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GunaAsher\&theme=tokyo-night\&hide_border=true)](https://github.com/GunaAsher)
+[![Guna's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Guna-Asher\&theme=tokyo-night\&hide_border=true)](https://github.com/Guna-Asher)
 
 ---
 
