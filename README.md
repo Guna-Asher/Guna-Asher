@@ -2,102 +2,226 @@
 
 # 👨‍💻 Guna R
 
-### Backend Engineer • Cloud & DevOps Enthusiast • FastAPI Developer
+### Backend Engineer | Python • FastAPI • AWS • DevOps
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Building+Production-Grade+Backend+Systems;FastAPI+%7C+Docker+%7C+AWS;Learning+Distributed+Systems+%26+DevOps;Always+Debugging+Something..." />
+Building backend systems, deployment pipelines, and infrastructure automation with a focus on reliability, observability, and production-ready engineering.
 
-</div>
+<p>
+  <a href="https://github.com/Guna-Asher">
+    <img src="https://komarev.com/ghpvc/?username=Guna-Asher&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+</p>
 
----
-
-## 🚀 About Me
-
-```python
-class Guna R:
-
-    role = "Backend Engineer in Progress"
-
-    current_focus = [
-        "Backend Development",
-        "FastAPI",
-        "Cloud & DevOps",
-        "Distributed Systems"
-    ]
-
-    currently_learning = [
-        "Docker & Kubernetes",
-        "AWS",
-        "CI/CD",
-        "Monitoring & Observability"
-    ]
-
-    mindset = "Observe → Investigate → Confirm → Fix → Automate"
-```
-
-I enjoy building scalable backend systems, automating workflows, and learning how production infrastructure behaves under real-world load and failures.
-
-Currently exploring:
-
-* ⚡ High-performance APIs
-* 🐳 Containerized applications
-* ☁️ Cloud-native systems
-* 📊 Monitoring & logging
-* 🔐 Authentication & backend security
-* 🚀 Deployment automation
-
----
-
-## 🛠️ Tech Stack
-
-### Backend
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square\&logo=flask\&logoColor=white)
-
-### Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square\&logo=postgresql\&logoColor=white)
-
-### DevOps & Cloud
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square\&logo=amazonaws\&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square\&logo=github-actions\&logoColor=white)
-
----
-
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Guna-Asher&theme=tokyonight&hide_border=true"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Backend+Engineering;FastAPI+%7C+Linux+%7C+Docker;AWS+%7C+CI%2FCD+Automation;Monitoring+%26+Observability;Building+Production-Oriented+Projects" />
 
 </div>
 
 ---
 
-## 📊 Contribution Graph
+# 🚀 About Me
 
-[![Guna's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Guna-Asher\&theme=tokyo-night\&hide_border=true)](https://github.com/Guna-Asher)
+```yaml
+name: Guna R
+
+role: Backend Engineer
+
+specialization:
+  - Backend Development
+  - Cloud Infrastructure
+  - DevOps Automation
+
+primary_stack:
+  - Python
+  - FastAPI
+  - Linux
+  - Docker
+  - AWS
+
+currently_learning:
+  - Kubernetes
+  - Distributed Systems
+  - Infrastructure Automation
+  - System Design
+
+engineering_mindset:
+  Observe → Investigate → Confirm → Fix → Automate
+```
+
+I enjoy building backend services, automating operational workflows, and understanding how production systems behave under real-world conditions.
+
+My current focus is developing practical experience in:
+
+- Designing scalable APIs
+- Infrastructure automation
+- Cloud deployments
+- Monitoring and observability
+- CI/CD workflows
+- System reliability engineering
 
 ---
 
-## 🌐 Connect With Me
+# 🏗️ Engineering Interests
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square\&logo=instagram\&logoColor=white)](https://instagram.com/ash_walker10)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square\&logo=discord\&logoColor=white)](https://discord.gg/yK4Exj9A)
+- Backend Architecture
+- API Design
+- Cloud Infrastructure
+- Linux Systems
+- DevOps Practices
+- Containerization
+- Monitoring & Observability
+- Automation Engineering
+- Distributed Systems
+- Performance Optimization
+
+---
+
+# ⭐ Featured Projects
+
+## AWS Log Monitoring System
+
+**Python • AWS • Linux**
+
+Designed a cloud-based monitoring workflow for collecting and analyzing infrastructure logs.
+
+### Highlights
+
+- Automated monitoring workflows
+- CloudWatch integration
+- Infrastructure visibility
+- Operational troubleshooting support
+
+---
+
+## System Monitor Pro
+
+**Python • Bash • Linux**
+
+A Linux monitoring toolkit for tracking critical system health metrics.
+
+### Features
+
+- CPU monitoring
+- Memory tracking
+- Disk usage analysis
+- Process monitoring
+- Automated scheduled checks using Cron
+
+---
+
+## AWS Deployment Pipeline
+
+**AWS • GitHub Actions • CI/CD**
+
+Implemented automated deployment workflows using GitHub Actions and AWS services.
+
+### Highlights
+
+- Automated deployments
+- GitHub Secrets integration
+- Cloud-based hosting workflows
+- CI/CD best practices
+
+---
+
+# 🛠️ Tech Stack
+
+## Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+---
+
+## Backend Development
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+---
+
+## Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+---
+
+## Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+---
+
+## Linux & Networking
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![SSH](https://img.shields.io/badge/SSH-000000?style=for-the-badge)
+![TCP/IP](https://img.shields.io/badge/TCP/IP-00599C?style=for-the-badge)
+![DNS](https://img.shields.io/badge/DNS-0066CC?style=for-the-badge)
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Guna-Asher&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Guna-Asher&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Activity
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Guna-Asher&theme=tokyo-night&hide_border=true)](https://github.com/Guna-Asher)
+
+</div>
+
+---
+
+# 🎯 2026 Goals
+
+- Build production-ready FastAPI applications
+- Deploy applications on AWS
+- Learn Kubernetes fundamentals
+- Implement Infrastructure as Code
+- Improve System Design skills
+- Contribute to open source projects
+
+---
+
+# 🤝 Connect
+
+<p align="left">
+<a href="https://linkedin.com/in/-guna-r">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:gunardsce@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Guna-Asher">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 ---
 
 <div align="center">
 
-```bash
-First make it work.
-Then make it reliable.
-Then make it scale.
-```
+### ⚙️ Engineering Philosophy
+
+> First make it work.  
+> Then make it reliable.  
+> Then make it observable.  
+> Then make it scale.
 
 </div>
