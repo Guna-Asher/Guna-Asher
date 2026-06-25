@@ -1,8 +1,8 @@
 # 👨‍💻 Guna R
 
-### Software Engineer | Python • Backend • AI Applications • Cloud Systems
+### Software Engineer | Python • Backend • AI Applications • Cloud
 
-Building deterministic, highly scalable software systems using Python, FastAPI, advanced AI integrations, cloud architecture, and intelligent automation.
+Building practical software systems with Python, FastAPI, AI integrations, cloud technologies, and automation.
 
 <p align="center">
   <a href="https://github.com/Guna-Asher">
@@ -23,23 +23,32 @@ name: Guna R
 role: Software Engineer
 specialization:
   - Backend Development
-  - AI Engineering
-  - Cloud Systems & DevOps
+  - AI Applications
+  - Cloud Engineering
 primary_stack:
-  - Python (FastAPI / Flask)
-  - SQL (PostgreSQL / MySQL)
-  - Cloud (AWS / Docker)
-  - Tooling (Git / GitHub Actions)
+  - Python
+  - FastAPI
+  - SQL
+  - AWS
+  - Git
 currently_exploring:
-  - Distributed Systems & Concurrency
-  - High-Throughput Cloud Architecture
-  - Large Language Model (LLM) Orchestration
+  - System Design
+  - Distributed Systems
+  - Cloud Architecture
+  - AI Engineering
 engineering_mindset:
   Observe → Investigate → Confirm → Fix → Automate
 
 ```
 
-I specialize in engineering robust backend architectures, building type-safe APIs, and deploying production-ready AI pipelines that turn complex visual and textual data into structured actionable intelligence.
+I enjoy building software that solves real-world problems through backend systems, APIs, automation, and AI-powered workflows.
+
+My focus areas include:
+
+* Backend Engineering & API Design
+* AI-Powered Applications
+* Cloud Technologies & Automation
+* System Design & Software Reliability
 
 ---
 
@@ -47,55 +56,56 @@ I specialize in engineering robust backend architectures, building type-safe API
 
 ## 🩺 Deployment Doctor
 
-**FastAPI • PostgreSQL • Rule Engine • AI Orchestration**
+**FastAPI • PostgreSQL • Rule Engine • AI Integration**
 
-An explainable incident detection platform designed to analyze container and deployment failures, isolating bugs through deterministic root-cause analysis.
+An explainable incident detection platform that analyzes deployment failures and generates deterministic root-cause analysis reports.
 
-### Technical Highlights
+### Highlights
 
-* **Deterministic Diagnostics:** Built a decoupled, rule-based incident detection engine paired with a dynamic confidence-scoring matrix.
-* **Evidence Attribution:** Implemented an evidence tracking layer to eliminate ambiguity in system failure reports.
-* **Hybrid Analysis System:** Leveraged FastAPI and PostgreSQL for state-tracking, using LLMs strictly for high-level summarizing to avoid AI hallucination in critical diagnostics.
+* Rule-based incident detection engine & confidence scoring system
+* Evidence attribution engine for deterministic reporting
+* PostgreSQL result storage with clean FastAPI backend APIs
+* Optional AI-generated summaries for rapid incident triage
 
 ---
 
 ## 👁️ ScreenSolve
 
-**FastAPI • Vision AI • Structured Data Extraction**
+**FastAPI • Vision AI • Python**
 
-An asynchronous vision-capable API platform engineered to parse, extract, and interpret structured datasets directly from visual payloads and user screenshots.
+AI-powered image understanding platform capable of extracting and answering questions from screenshots, images, and visual content.
 
-### Technical Highlights
+### Highlights
 
-* **Vision Pipelines:** Integrated advanced vision models to systematically extract nested schemas from complex images.
-* **Type-Safe Responses:** Built on top of FastAPI and Pydantic to enforce strict structured JSON outputs, ensuring zero configuration drift downstream.
-* **High Throughput Design:** Optimized for low-latency image ingestion and swift token serialization.
+* Screenshot analysis driven by vision-capable AI models
+* FastAPI backend with structured JSON response generation
+* Production-oriented API architecture optimized for speed
 
 ---
 
 ## 🚀 Self-Service Deployment Portal
 
-**FastAPI • PostgreSQL • Docker Engine API**
+**FastAPI • PostgreSQL • Docker**
 
-A lightweight, multi-tenant deployment engine enabling authenticated developers to instantly containerize, provision, and roll back web applications.
+A deployment platform enabling authenticated users to deploy and manage applications through a simplified interface.
 
-### Technical Highlights
+### Highlights
 
-* **Container Orchestration:** Directly integrated with Docker environments to programmatically manage container lifecycles.
-* **State Management:** Designed relational database schemas in PostgreSQL to track live container metrics, active deployments, and historical logs.
-* **Security & Auth:** Enforced strict RBAC (Role-Based Access Control) using JWT stateless authentication layers.
+* Secure JWT Authentication flow
+* Docker-based deployments & rollback workflows
+* PostgreSQL integration for deployment state automation
 
 ---
 
 # 🛠️ Tech Stack
 
-### Core Languages & Frameworks
+### Languages & Backend
 
-### Databases & Cloud Infrastructure
+### Databases & Cloud
 
-### AI, Data Science & Automation
+### AI, Data & DevOps
 
-### Environments & Tools
+### Environment & Tools
 
 ---
 
@@ -103,14 +113,23 @@ A lightweight, multi-tenant deployment engine enabling authenticated developers 
 
 ---
 
-# 🤝 Connect With Me
+# 🎯 Current Focus
+
+* Building production-ready, highly reliable backend systems
+* Scaling AI-powered workflows and context processing pipelines
+* Deepening knowledge of distributed system fundamentals and cloud architecture
+* Contributing to impactful open-source initiatives
+
+---
+
+# 🤝 Connect
 
 ---
 
 ### ⚙️ Engineering Philosophy
 
-> Build clean systems.
-> Intentionally stress test how they fail.
-> Ruthlessly optimize bottlenecks.
-> Automate repetitive execution.
+> Build things.
+> Understand how they fail.
+> Improve them.
+> Automate them.
 > Repeat.
