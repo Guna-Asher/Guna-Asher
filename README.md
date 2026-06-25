@@ -1,20 +1,18 @@
-<div align="center">
-
 # 👨‍💻 Guna R
 
-### Backend Engineer | Python • FastAPI • AWS • DevOps
+### Software Engineer | Python • Backend • AI Applications • Cloud
 
-Building backend systems, deployment pipelines, and infrastructure automation with a focus on reliability, observability, and production-ready engineering.
+Building practical software systems with Python, FastAPI, AI integrations, cloud technologies, and automation.
 
-<p>
+<p align="center">
   <a href="https://github.com/Guna-Asher">
     <img src="https://komarev.com/ghpvc/?username=Guna-Asher&label=Profile%20Views&color=0e75b6&style=flat" />
   </a>
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Backend+Engineering;FastAPI+%7C+Linux+%7C+Docker;AWS+%7C+CI%2FCD+Automation;Monitoring+%26+Observability;Building+Production-Oriented+Projects" />
-
-</div>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Python+Software+Engineering;Backend+Development+with+FastAPI;AI-Powered+Applications;Cloud+%26+Automation;Building+Projects+and+Learning+in+Public" />
+</p>
 
 ---
 
@@ -23,144 +21,138 @@ Building backend systems, deployment pipelines, and infrastructure automation wi
 ```yaml
 name: Guna R
 
-role: Backend Engineer
+role: Software Engineer
 
 specialization:
   - Backend Development
-  - Cloud Infrastructure
-  - DevOps Automation
+  - AI Applications
+  - Cloud Engineering
 
 primary_stack:
   - Python
   - FastAPI
-  - Linux
-  - Docker
+  - SQL
   - AWS
+  - Git
 
-currently_learning:
-  - Kubernetes
-  - Distributed Systems
-  - Infrastructure Automation
+currently_exploring:
   - System Design
+  - Distributed Systems
+  - Cloud Architecture
+  - AI Engineering
 
 engineering_mindset:
   Observe → Investigate → Confirm → Fix → Automate
 ```
 
-I enjoy building backend services, automating operational workflows, and understanding how production systems behave under real-world conditions.
+I enjoy building software that solves real-world problems through backend systems, APIs, automation, and AI-powered workflows.
 
-My current focus is developing practical experience in:
+My focus areas include:
 
-- Designing scalable APIs
-- Infrastructure automation
-- Cloud deployments
-- Monitoring and observability
-- CI/CD workflows
-- System reliability engineering
-
----
-
-# 🏗️ Engineering Interests
-
-- Backend Architecture
-- API Design
-- Cloud Infrastructure
-- Linux Systems
-- DevOps Practices
-- Containerization
-- Monitoring & Observability
-- Automation Engineering
-- Distributed Systems
-- Performance Optimization
+* Backend Engineering
+* API Design
+* AI-Powered Applications
+* Cloud Technologies
+* Automation
+* System Design
+* Software Reliability
 
 ---
 
 # ⭐ Featured Projects
 
-## AWS Log Monitoring System
+## 🩺 Deployment Doctor
 
-**Python • AWS • Linux**
+**FastAPI • PostgreSQL • Rule Engine • AI Integration**
 
-Designed a cloud-based monitoring workflow for collecting and analyzing infrastructure logs.
-
-### Highlights
-
-- Automated monitoring workflows
-- CloudWatch integration
-- Infrastructure visibility
-- Operational troubleshooting support
-
----
-
-## System Monitor Pro
-
-**Python • Bash • Linux**
-
-A Linux monitoring toolkit for tracking critical system health metrics.
-
-### Features
-
-- CPU monitoring
-- Memory tracking
-- Disk usage analysis
-- Process monitoring
-- Automated scheduled checks using Cron
-
----
-
-## AWS Deployment Pipeline
-
-**AWS • GitHub Actions • CI/CD**
-
-Implemented automated deployment workflows using GitHub Actions and AWS services.
+An explainable incident detection platform that analyzes deployment failures and generates deterministic root-cause analysis reports.
 
 ### Highlights
 
-- Automated deployments
-- GitHub Secrets integration
-- Cloud-based hosting workflows
-- CI/CD best practices
+* Rule-based incident detection engine
+* Confidence scoring system
+* Evidence attribution engine
+* PostgreSQL result storage
+* FastAPI backend APIs
+* Optional AI-generated summaries
+
+---
+
+## 👁️ ScreenSolve
+
+**FastAPI • Vision AI • Python**
+
+AI-powered image understanding platform capable of extracting and answering questions from screenshots, images, and visual content.
+
+### Highlights
+
+* Screenshot analysis
+* Vision-capable AI models
+* FastAPI backend
+* Structured response generation
+* Production-oriented API architecture
+
+---
+
+## 🚀 Self-Service Deployment Portal
+
+**FastAPI • PostgreSQL • Docker**
+
+A deployment platform enabling authenticated users to deploy and manage applications through a simplified interface.
+
+### Highlights
+
+* JWT Authentication
+* Docker-based deployments
+* PostgreSQL integration
+* Deployment automation
+* Rollback workflows
 
 ---
 
 # 🛠️ Tech Stack
 
-## Languages
+### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
----
-
-## Backend Development
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 
 ---
 
-## Databases
+### Backend Development
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
----
-
-## Cloud & DevOps
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
 
 ---
 
-## Linux & Networking
+### Databases
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![SSH](https://img.shields.io/badge/SSH-000000?style=for-the-badge)
-![TCP/IP](https://img.shields.io/badge/TCP/IP-00599C?style=for-the-badge)
-![DNS](https://img.shields.io/badge/DNS-0066CC?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+---
+
+### AI & Data
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+
+---
+
+### Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
+
+---
+
+### Operating Systems & Tools
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 
 ---
 
@@ -170,47 +162,56 @@ Implemented automated deployment workflows using GitHub Actions and AWS services
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Guna-Asher&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Guna-Asher&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guna-Asher&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Activity
+# 📈 Overall GitHub Activity
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Guna-Asher&theme=tokyo-night&hide_border=true)](https://github.com/Guna-Asher)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Guna-Asher&theme=tokyonight" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-contributor-stats.vercel.app/api?username=Guna-Asher&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 
 </div>
 
 ---
 
-# 🎯 2026 Goals
+# 🎯 Current Focus
 
-- Build production-ready FastAPI applications
-- Deploy applications on AWS
-- Learn Kubernetes fundamentals
-- Implement Infrastructure as Code
-- Improve System Design skills
-- Contribute to open source projects
+* Building production-ready backend systems
+* Exploring AI-powered applications
+* Learning distributed system fundamentals
+* Improving cloud architecture knowledge
+* Contributing to open-source projects
 
 ---
 
 # 🤝 Connect
 
-<p align="left">
+<p align="center">
+
 <a href="https://linkedin.com/in/-guna-r">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:gunardsce@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Guna-Asher">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 </p>
 
 ---
@@ -219,10 +220,14 @@ Implemented automated deployment workflows using GitHub Actions and AWS services
 
 ### ⚙️ Engineering Philosophy
 
-> First make it work.  
-> Then make it reliable.  
-> Then make it observable.  
-> Then make it scale.
+> Build things.
+>
+> Understand how they fail.
+>
+> Improve them.
+>
+> Automate them.
+>
+> Repeat.
 
 </div>
-
