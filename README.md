@@ -175,7 +175,7 @@ A deployment platform that enables authenticated users to deploy and manage appl
 
 ---
 
-# 📊 GitHub Activity & Analytics
+# 📊 GitHub Activity
 
 <div align="center">
 
@@ -183,19 +183,10 @@ A deployment platform that enables authenticated users to deploy and manage appl
 
 <br><br>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Guna-Asher&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guna-Asher&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img src="https://github-contributor-stats.vercel.app/api?username=Guna-Asher&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-
-<br><br>
-
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Guna-Asher&theme=tokyo-night&hide_border=true"/>
 
 </div>
+
 
 ---
 
