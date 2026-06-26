@@ -126,22 +126,6 @@ A deployment platform that enables authenticated users to deploy and manage appl
 
 ---
 
-## ⚙️ AI-Assisted Incident Management Platform
-
-**FastAPI • RabbitMQ • PostgreSQL • Prometheus**
-
-An event-driven platform for tracking incidents, analyzing failures, and improving operational visibility.
-
-### Highlights
-
-- Built asynchronous processing workflows
-- Integrated RabbitMQ messaging
-- Implemented observability with Prometheus
-- Developed incident tracking APIs
-- Automated alerting and event handling
-
----
-
 # 🛠️ Tech Stack
 
 ### Languages
