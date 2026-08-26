@@ -135,7 +135,7 @@ A deterministic incident diagnosis platform designed to identify root causes in 
 
 ### Languages
 
-`Python` · `TypeScript` · `JavaScript` · `SQL` · `Bash` · `Solidity`
+`Python` · `TypeScript` · `SQL` · `Bash` · `Solidity`
 
 ### Backend
 
