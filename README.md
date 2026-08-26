@@ -1,355 +1,259 @@
-````markdown
 <div align="center">
 
-# `guna@github:~$`
-
-### Guna R
-
-**Software Engineer • Backend • Web3 • Cloud • AI**
-
-Building practical software systems, experimenting with new technologies, and learning by shipping.
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-Guna--Asher-181717?style=flat-square&logo=github)](https://github.com/Guna-Asher)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Guna%20R-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/-guna-r)
-[![Profile Views](https://komarev.com/ghpvc/?username=Guna-Asher&label=profile%20views&color=0e75b6&style=flat-square)](https://github.com/Guna-Asher)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:111827&height=180&section=header&text=Guna%20R&fontSize=46&fontColor=38bdf8&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%7C%20Web3%20%7C%20Cloud%20%7C%20AI&descAlignY=58&descSize=18" />
 
 </div>
 
----
+<div align="center">
 
 ```text
-┌──[guna@github]─[~]
-└─$ whoami
+$ whoami
 
 Guna R
 MCA Graduate
 Software Engineer
 
-Focus:
-  ├── Backend Engineering
-  ├── Web3 & Smart Contracts
-  ├── Cloud & Infrastructure
-  ├── AI-Powered Applications
-  └── Automation & Developer Tooling
+$ echo $FOCUS
+
+Backend Engineering
+Web3 & Smart Contracts
+Cloud & Infrastructure
+AI Applications
+Automation & Developer Tools
 ````
 
-## `$ cat about.txt`
+</div>
 
-I enjoy building software that solves practical problems rather than building projects just to demonstrate a technology.
+<p align="center">
+  <a href="https://github.com/Guna-Asher">
+    <img src="https://img.shields.io/badge/GitHub-Guna--Asher-181717?style=flat-square&logo=github" />
+  </a>
+  <a href="https://linkedin.com/in/-guna-r">
+    <img src="https://img.shields.io/badge/LinkedIn-Guna%20R-0A66C2?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="mailto:gunardsce@gmail.com">
+    <img src="https://img.shields.io/badge/Email-gunardsce%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Guna-Asher&label=Profile%20Views&color=0e75b6&style=flat-square" />
+</p>
 
-Most of my work sits around backend systems, APIs, cloud infrastructure, Web3 applications, AI-powered workflows, and developer tooling.
+---
 
-I learn primarily by building, breaking, debugging, and improving systems.
+## `~/about`
+
+I'm a software engineer who enjoys building practical systems and learning by actually shipping them.
+
+My work currently spans backend engineering, Web3 applications, cloud infrastructure, AI-powered software, and developer tooling.
+
+I like understanding what happens underneath the abstraction — especially when things fail.
 
 ```text
-Engineering mindset:
-
-Observe
-   ↓
-Investigate
-   ↓
-Understand
-   ↓
-Build
-   ↓
-Test
-   ↓
-Break
-   ↓
-Fix
-   ↓
-Automate
+Observe → Investigate → Build → Test → Break → Fix → Automate
 ```
 
 ---
 
-## `$ ls -la ./projects`
+## `~/projects`
 
-```text
-drwxr-xr-x  potluck/
-drwxr-xr-x  stranger-club/
-drwxr-xr-x  self-service-deployment-portal/
-drwxr-xr-x  deployment-doctor/
-```
-
-### `01` — Potluck
+### `01` · Potluck
 
 **Web3 Group Funding Platform**
 
 `Solidity` `Foundry` `Monad` `Next.js` `TypeScript` `wagmi` `viem`
 
-A blockchain-based shared funding platform where contributors can fund a goal and receive their money back automatically when the conditions for the pot are not met.
-
-**Built with:**
+A Web3 application for group funding where contributors deposit money toward a goal and receive refunds automatically when the conditions are not met.
 
 * Solidity escrow smart contract
-* Monad Mainnet
-* Wallet-based interactions
-* Contribution, release, and refund flows
+* Wallet-based contribution flow
+* Release and refund mechanics
+* Monad Mainnet deployment
 * On-chain event handling
-* Contract security and fuzz testing
+* Security and fuzz testing
 
-🔗 [Repository](https://github.com/Guna-Asher/Potluck)
+[Repository →](https://github.com/Guna-Asher/Potluck)
 
 ---
 
-### `02` — Stranger Club
+### `02` · Stranger Club
 
 **Cricket Event Management Platform**
 
 `Python` `FastAPI` `React` `SQLite` `SSE` `Docker`
 
-A mobile-first platform I am building to replace the manual:
-
-```text
-Google Form
-    ↓
-UPI Payment
-    ↓
-Payment Screenshot
-    ↓
-WhatsApp Confirmation
-```
-
-workflow with a single application for players and organisers.
-
-**Built with:**
+A mobile-first platform I'm building to replace the manual event workflow of Google Forms, UPI payments, screenshots, and WhatsApp confirmations.
 
 * Public and protected REST APIs
-* Event and registration management
-* Payment verification workflow
-* Real-time updates using Server-Sent Events
+* Registration and payment workflows
+* Real-time updates with Server-Sent Events
 * Waitlist and capacity management
 * Authentication and session security
 * Audit records and database migrations
 * Docker-based deployment
 
-🔗 [Repository](https://github.com/Guna-Asher/Stranger-Club)
+[Repository →](https://github.com/Guna-Asher/Stranger-Club)
 
 ---
 
-### `03` — Self-Service Deployment Portal
+### `03` · Self-Service Deployment Portal
 
 **Docker Deployment Platform**
 
-`Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `Docker`
+`Python` `FastAPI` `PostgreSQL` `Docker`
 
-A deployment platform designed to let developers deploy Dockerized applications without direct SSH access to the server.
-
-```text
-Register App
-     ↓
-Register Version
-     ↓
-Deploy
-     ↓
-Verify
-     ↓
-Track
-     ↓
-Rollback
-```
-
-**Built with:**
+A deployment platform that lets developers deploy Dockerized applications without directly connecting to servers through SSH.
 
 * JWT authentication
+* Application and version management
 * Docker-based deployment engine
-* Deployment history
-* Rollback support
-* Audit logging
+* Deployment history and audit logs
+* One-click rollback
 * PostgreSQL persistence
-* Database migrations
 * Background deployment tasks
 
-🔗 [Repository](https://github.com/Guna-Asher/Self-Service-Deployment-Portal)
+[Repository →](https://github.com/Guna-Asher/Self-Service-Deployment-Portal)
 
 ---
 
-### `04` — Deployment Doctor
+### `04` · Deployment Doctor
 
 **Cloud-Native Incident Diagnosis Platform**
 
 `Python` `FastAPI` `PostgreSQL` `React` `Docker` `Kubernetes`
 
-A deterministic incident diagnosis platform that analyzes Kubernetes and cloud-native logs to identify probable root causes instead of only reporting symptoms.
+A deterministic incident diagnosis platform designed to identify root causes in Kubernetes and cloud-native failures.
 
-**Built around:**
-
-* Deterministic rule-based analysis
+* Rule-based incident analysis
 * Evidence attribution
 * Confidence scoring
 * Dependency and relationship analysis
 * Root-cause ranking
-* Audit trails
-* Kubernetes and cloud-native failure scenarios
+* Auditable diagnostic results
 
-🔗 [Repository](https://github.com/Guna-Asher/Deployment_Doctor)
+[Repository →](https://github.com/Guna-Asher/Deployment_Doctor)
 
 ---
 
-## `$ cat stack.txt`
+## `~/stack`
 
-### Languages
-
-```text
-Python
-TypeScript
-JavaScript
-SQL
-Bash
-Solidity
-```
+<table>
+<tr>
+<td valign="top" width="50%">
 
 ### Backend
 
-```text
-FastAPI
-Flask
-REST APIs
-SQLAlchemy
-```
+* Python
+* FastAPI
+* Flask
+* REST APIs
+* SQLAlchemy
 
 ### Web3
 
-```text
-Solidity
-EVM
-Foundry
-wagmi
-viem
-Smart Contracts
-Wallet Integration
-On-chain Transactions
-```
-
-### Frontend
-
-```text
-React
-Next.js
-Vite
-Tailwind CSS
-```
+* Solidity
+* EVM
+* Foundry
+* wagmi
+* viem
+* Smart Contracts
 
 ### Databases
 
-```text
-PostgreSQL
-MySQL
-SQLite
-```
+* PostgreSQL
+* MySQL
+* SQLite
+
+</td>
+<td valign="top" width="50%">
+
+### Frontend
+
+* React
+* Next.js
+* Vite
+* Tailwind CSS
 
 ### Cloud & Infrastructure
 
-```text
-AWS
-Docker
-Docker Compose
-Kubernetes
-Linux
-GitHub Actions
-```
+* AWS
+* Docker
+* Docker Compose
+* Kubernetes
+* Linux
 
 ### Tools
 
+* Git
+* GitHub
+* GitHub Actions
+* Bash
+
+</td>
+</tr>
+</table>
+
+---
+
+## `~/current-focus`
+
 ```text
-Git
-GitHub
-Bash
+[+] Backend architecture
+[+] Web3 & smart contract development
+[+] Cloud infrastructure
+[+] Distributed systems
+[+] System reliability
+[+] Developer tooling
 ```
 
 ---
 
-## `$ ./current-focus`
+## `~/engineering-mindset`
 
-```text
-[+] Building backend systems
-[+] Exploring Web3 and smart contracts
-[+] Improving cloud & infrastructure skills
-[+] Learning distributed systems
-[+] Building practical developer tools
-[+] Understanding how systems fail
-```
+> Build things.
+> Understand how they fail.
+> Improve them.
+> Automate them.
+> Repeat.
 
 ---
 
-## `$ git log --oneline --future`
-
-```text
-backend architecture
-distributed systems
-cloud infrastructure
-smart contract development
-system reliability
-developer tooling
-```
-
----
-
-## `$ cat learning.txt`
-
-I'm interested in understanding how systems work underneath the abstractions.
-
-That means going beyond:
-
-```text
-"it works"
-```
-
-and asking:
-
-```text
-Why does it work?
-What happens when it fails?
-Where does it fail?
-How can it be verified?
-How can it be made safer?
-How can it be automated?
-```
-
----
-
-## `$ cat philosophy.txt`
-
-```text
-Build things.
-
-Understand how they fail.
-
-Improve them.
-
-Automate them.
-
-Repeat.
-```
-
----
-
-## `$ ./connect`
+## `~/github`
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/-guna-r)
+<img src="https://github-readme-stats.vercel.app/api?username=Guna-Asher&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&include_all_commits=true" height="165" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Guna-Asher&theme=github-dark-blue&hide_border=true" height="165" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Guna-Asher&theme=github-compact&hide_border=true&area=true" />
+
+</div>
+
+---
+
+## `~/connect`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/-guna-r)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Guna-Asher)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:gunardsce@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:gunardsce@gmail.com)
 
 </div>
-
----
 
 <div align="center">
 
 ```text
-┌──────────────────────────────────────────────┐
-│                                              │
-│   $ echo "keep building"                     │
-│                                              │
-│   keep building                              │
-│                                              │
-└──────────────────────────────────────────────┘
+$ echo "keep building"
+
+keep building
 ```
 
 </div>
 ```
+
