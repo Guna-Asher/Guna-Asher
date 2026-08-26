@@ -188,9 +188,9 @@ A deterministic incident diagnosis platform designed to identify root causes in 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Guna-Asher&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&include_all_commits=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=Guna-Asher&show_icons=true&hide_border=true&theme=github_dark" width="48%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Guna-Asher&theme=github-dark-blue&hide_border=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guna-Asher&layout=compact&hide_border=true&theme=github_dark" width="41%" />
 
 </div>
 
@@ -198,7 +198,7 @@ A deterministic incident diagnosis platform designed to identify root causes in 
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Guna-Asher&theme=github-compact&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Guna-Asher&theme=github-compact&hide_border=true" width="100%" />
 
 </div>
 
