@@ -1,237 +1,355 @@
+````markdown
 <div align="center">
 
-# 👨‍💻 Guna R
+# `guna@github:~$`
 
-### Software Engineer | Python • Backend • AI Applications • Cloud
+### Guna R
 
-Building practical software systems with Python, AI, backend engineering, cloud technologies, and automation.
+**Software Engineer • Backend • Web3 • Cloud • AI**
 
-<p>
-  <a href="https://github.com/Guna-Asher">
-    <img src="https://komarev.com/ghpvc/?username=Guna-Asher&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
-</p>
+Building practical software systems, experimenting with new technologies, and learning by shipping.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Software+Engineering;Backend+Development+with+Python+%26+FastAPI;AI-Powered+Applications;Cloud+Infrastructure+%26+Automation;Building+Projects+and+Learning+in+Public" />
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Guna--Asher-181717?style=flat-square&logo=github)](https://github.com/Guna-Asher)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Guna%20R-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/-guna-r)
+[![Profile Views](https://komarev.com/ghpvc/?username=Guna-Asher&label=profile%20views&color=0e75b6&style=flat-square)](https://github.com/Guna-Asher)
 
 </div>
 
 ---
 
-# 🚀 About Me
+```text
+┌──[guna@github]─[~]
+└─$ whoami
 
-```yaml
-name: Guna R
+Guna R
+MCA Graduate
+Software Engineer
 
-role: Software Engineer
+Focus:
+  ├── Backend Engineering
+  ├── Web3 & Smart Contracts
+  ├── Cloud & Infrastructure
+  ├── AI-Powered Applications
+  └── Automation & Developer Tooling
+````
 
-specialization:
-  - Backend Development
-  - AI Applications
-  - Cloud Engineering
+## `$ cat about.txt`
 
-primary_stack:
-  - Python
-  - FastAPI
-  - SQL
-  - AWS
-  - Git
+I enjoy building software that solves practical problems rather than building projects just to demonstrate a technology.
 
-currently_learning:
-  - System Design
-  - Distributed Systems
-  - Kubernetes
-  - Cloud Architecture
+Most of my work sits around backend systems, APIs, cloud infrastructure, Web3 applications, AI-powered workflows, and developer tooling.
 
-engineering_mindset:
-  Observe → Investigate → Confirm → Fix → Automate
+I learn primarily by building, breaking, debugging, and improving systems.
+
+```text
+Engineering mindset:
+
+Observe
+   ↓
+Investigate
+   ↓
+Understand
+   ↓
+Build
+   ↓
+Test
+   ↓
+Break
+   ↓
+Fix
+   ↓
+Automate
 ```
 
-I enjoy building software that solves real-world problems through backend systems, APIs, AI-powered workflows, cloud services, and automation.
+---
 
-My current areas of focus:
+## `$ ls -la ./projects`
 
-- Backend Engineering
-- API Design & Development
-- AI-Powered Applications
-- Cloud Infrastructure
-- Automation & Tooling
-- System Reliability
-- Software Architecture
+```text
+drwxr-xr-x  potluck/
+drwxr-xr-x  stranger-club/
+drwxr-xr-x  self-service-deployment-portal/
+drwxr-xr-x  deployment-doctor/
+```
+
+### `01` — Potluck
+
+**Web3 Group Funding Platform**
+
+`Solidity` `Foundry` `Monad` `Next.js` `TypeScript` `wagmi` `viem`
+
+A blockchain-based shared funding platform where contributors can fund a goal and receive their money back automatically when the conditions for the pot are not met.
+
+**Built with:**
+
+* Solidity escrow smart contract
+* Monad Mainnet
+* Wallet-based interactions
+* Contribution, release, and refund flows
+* On-chain event handling
+* Contract security and fuzz testing
+
+🔗 [Repository](https://github.com/Guna-Asher/Potluck)
 
 ---
 
-# 🏗️ Areas of Interest
+### `02` — Stranger Club
 
-- Backend Systems
-- AI Applications
-- Cloud Computing
-- API Engineering
-- Infrastructure Automation
-- Linux Systems
-- Monitoring & Observability
-- Distributed Systems
-- Performance Optimization
-- Developer Tooling
+**Cricket Event Management Platform**
 
----
+`Python` `FastAPI` `React` `SQLite` `SSE` `Docker`
 
-# ⭐ Featured Projects
+A mobile-first platform I am building to replace the manual:
 
-## 🩺 Deployment Doctor
+```text
+Google Form
+    ↓
+UPI Payment
+    ↓
+Payment Screenshot
+    ↓
+WhatsApp Confirmation
+```
 
-**FastAPI • PostgreSQL • Rule Engine • AI Integration**
+workflow with a single application for players and organisers.
 
-An incident analysis platform that helps engineers investigate deployment failures through deterministic root-cause analysis and explainable scoring.
+**Built with:**
 
-### Highlights
+* Public and protected REST APIs
+* Event and registration management
+* Payment verification workflow
+* Real-time updates using Server-Sent Events
+* Waitlist and capacity management
+* Authentication and session security
+* Audit records and database migrations
+* Docker-based deployment
 
-- Built REST APIs using FastAPI
-- Designed rule-based incident detection workflows
-- Implemented confidence scoring and evidence attribution
-- Stored analysis results using PostgreSQL
-- Integrated optional AI-generated summaries
-
----
-
-## 👁️ ScreenSolve
-
-**FastAPI • Vision AI • Python**
-
-An AI-powered platform that analyzes screenshots and images to answer user questions using vision-capable language models.
-
-### Highlights
-
-- Developed image understanding workflows
-- Integrated vision-capable AI models
-- Built backend APIs with FastAPI
-- Generated structured responses from visual input
-- Designed production-oriented application architecture
+🔗 [Repository](https://github.com/Guna-Asher/Stranger-Club)
 
 ---
 
-## 🚀 Self-Service Deployment Portal
+### `03` — Self-Service Deployment Portal
 
-**FastAPI • PostgreSQL • Docker**
+**Docker Deployment Platform**
 
-A deployment platform that enables authenticated users to deploy and manage applications through a simplified interface.
+`Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `Docker`
 
-### Highlights
+A deployment platform designed to let developers deploy Dockerized applications without direct SSH access to the server.
 
-- Implemented JWT authentication
-- Integrated PostgreSQL for application data
-- Containerized services using Docker
-- Automated deployment workflows
-- Added rollback and deployment management features
+```text
+Register App
+     ↓
+Register Version
+     ↓
+Deploy
+     ↓
+Verify
+     ↓
+Track
+     ↓
+Rollback
+```
+
+**Built with:**
+
+* JWT authentication
+* Docker-based deployment engine
+* Deployment history
+* Rollback support
+* Audit logging
+* PostgreSQL persistence
+* Database migrations
+* Background deployment tasks
+
+🔗 [Repository](https://github.com/Guna-Asher/Self-Service-Deployment-Portal)
 
 ---
 
-# 🛠️ Tech Stack
+### `04` — Deployment Doctor
+
+**Cloud-Native Incident Diagnosis Platform**
+
+`Python` `FastAPI` `PostgreSQL` `React` `Docker` `Kubernetes`
+
+A deterministic incident diagnosis platform that analyzes Kubernetes and cloud-native logs to identify probable root causes instead of only reporting symptoms.
+
+**Built around:**
+
+* Deterministic rule-based analysis
+* Evidence attribution
+* Confidence scoring
+* Dependency and relationship analysis
+* Root-cause ranking
+* Audit trails
+* Kubernetes and cloud-native failure scenarios
+
+🔗 [Repository](https://github.com/Guna-Asher/Deployment_Doctor)
+
+---
+
+## `$ cat stack.txt`
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+```text
+Python
+TypeScript
+JavaScript
+SQL
+Bash
+Solidity
+```
 
----
+### Backend
 
-### Backend Development
+```text
+FastAPI
+Flask
+REST APIs
+SQLAlchemy
+```
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+### Web3
 
----
+```text
+Solidity
+EVM
+Foundry
+wagmi
+viem
+Smart Contracts
+Wallet Integration
+On-chain Transactions
+```
+
+### Frontend
+
+```text
+React
+Next.js
+Vite
+Tailwind CSS
+```
 
 ### Databases
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+```text
+PostgreSQL
+MySQL
+SQLite
+```
+
+### Cloud & Infrastructure
+
+```text
+AWS
+Docker
+Docker Compose
+Kubernetes
+Linux
+GitHub Actions
+```
+
+### Tools
+
+```text
+Git
+GitHub
+Bash
+```
 
 ---
 
-### AI & Data
+## `$ ./current-focus`
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
----
-
-### Cloud & DevOps
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+```text
+[+] Building backend systems
+[+] Exploring Web3 and smart contracts
+[+] Improving cloud & infrastructure skills
+[+] Learning distributed systems
+[+] Building practical developer tools
+[+] Understanding how systems fail
+```
 
 ---
 
-### Operating Systems & Tools
+## `$ git log --oneline --future`
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+```text
+backend architecture
+distributed systems
+cloud infrastructure
+smart contract development
+system reliability
+developer tooling
+```
 
 ---
 
-# 📊 GitHub Activity
+## `$ cat learning.txt`
+
+I'm interested in understanding how systems work underneath the abstractions.
+
+That means going beyond:
+
+```text
+"it works"
+```
+
+and asking:
+
+```text
+Why does it work?
+What happens when it fails?
+Where does it fail?
+How can it be verified?
+How can it be made safer?
+How can it be automated?
+```
+
+---
+
+## `$ cat philosophy.txt`
+
+```text
+Build things.
+
+Understand how they fail.
+
+Improve them.
+
+Automate them.
+
+Repeat.
+```
+
+---
+
+## `$ ./connect`
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Guna-Asher&theme=tokyonight"/>
-
-<br><br>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Guna-Asher&theme=tokyo-night&hide_border=true"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/-guna-r)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Guna-Asher)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:gunardsce@gmail.com)
 
 </div>
-
-
----
-
-# 🎯 Current Focus
-
-- Building production-ready backend applications
-- Exploring AI-powered software systems
-- Learning distributed systems and architecture patterns
-- Improving cloud engineering skills
-- Contributing to open-source projects
-
----
-
-# 🤝 Connect
-
-<p align="center">
-
-<a href="https://linkedin.com/in/-guna-r">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:gunardsce@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Guna-Asher">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
 
 ---
 
 <div align="center">
 
-## ⚙️ Engineering Philosophy
-
-> Build things.
->
-> Understand how they fail.
->
-> Improve them.
->
-> Automate them.
->
-> Repeat.
+```text
+┌──────────────────────────────────────────────┐
+│                                              │
+│   $ echo "keep building"                     │
+│                                              │
+│   keep building                              │
+│                                              │
+└──────────────────────────────────────────────┘
+```
 
 </div>
+```
